@@ -4,7 +4,7 @@ colorama==0.4.4
 folium==0.11.0
 lxml==4.6.3
 playsound==1.2.2
-requests==2.25.1
+requests==2.32.0
 requests-futures==1.0.0
 rich==9.10.0
 soupsieve==2.1
